@@ -1,0 +1,15 @@
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\bin\Debug\netstandard2.0\ButtonDemos.deps.json
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\bin\Debug\netstandard2.0\ButtonDemos.dll
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\bin\Debug\netstandard2.0\ButtonDemos.pdb
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\ButtonDemos.csprojAssemblyReference.cache
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\BasicButtonClickPage.xaml.g.cs
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\ButtonAppearancePage.xaml.g.cs
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\ButtonDemos.csproj.CoreCompileInputs.cache
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\ButtonDemos.AssemblyInfoInputs.cache
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\ButtonDemos.AssemblyInfo.cs
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\ButtonDemos.dll
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\ButtonDemos.pdb
+C:\Users\jared\Desktop\ButtonDemos\ButtonDemos\ButtonDemos\obj\Debug\netstandard2.0\TestPage.xaml.g.cs

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-AndroidManifest",
+      "appliesTo": "ButtonDemos/ButtonDemos.Android/Properties/AndroidManifest.xml",
+      "type": "launch"
+    }
+  ]
+}
